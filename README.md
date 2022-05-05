@@ -13,7 +13,7 @@
 [//]: # (Add your gifs/images here:)
 <div align="center">
 
-  <img src="https://i.imgur.com/kxNuB7C.gif" alt="demo" height="480">
+  <img src="https://i.imgur.com/1b5CVYL.gif" alt="demo" height="480">
   
 </div>
 
