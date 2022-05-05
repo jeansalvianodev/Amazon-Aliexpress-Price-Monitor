@@ -28,7 +28,7 @@ The Price Monitor Bot, as its name implies, monitors the price of a desired prod
 
 Needs to be a Gmail account!
 <div>
-  <img src="https://i.imgur.com/GKN99ny.png" alt="config" height="220">
+  <img src="https://i.imgur.com/6XFIEhI.png" alt="config" height="220">
 </div>
 When filling in the data, it is not necessary to use quotation marks (")
 
